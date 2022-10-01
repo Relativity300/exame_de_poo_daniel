@@ -1,0 +1,32 @@
+body{
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20200621/pngtree-abstract-modern-neon-frame-background-image_339537.jpg);
+    background-repeat: no-repeat;
+    background-size: 100vw;
+}
+.offcanvas-header{
+    background-color: rgb(160, 233, 233);
+}
+.offcanvas-body{
+    background-image: url(https://fondosmil.com/fondo/35152.jpg);
+    background-repeat: no-repeat;
+    background-size: 100vw;
+
+    
+}
+.salir{
+    background-color: antiquewhite;
+    width: 4em;
+    text-align: center;
+    border-radius: 1em;
+    text-shadow: 4px 3px 4px #000;
+    font-size: 1.5em;
+}
+.salir:hover{
+    background-color: rgb(226, 207, 183);
+}
+.salir:active{
+    background-color: rgb(189, 166, 139);
+    font-size: 1.2em;
+    width: 3.5em;
+    
+}

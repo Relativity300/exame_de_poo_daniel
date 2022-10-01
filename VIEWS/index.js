@@ -1,0 +1,1 @@
+alert("Toda la información no se va a usar más que para el objetivo de la web.")

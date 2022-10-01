@@ -1,0 +1,67 @@
+form{
+    position: relative;
+    top: 15em;
+    display: flex;
+    justify-content: center;
+    
+    
+}
+select{
+    width: 6em;
+    border-radius: .4em;
+    background-color: aqua;
+    border: solid rgb(76, 0, 255);
+    text-align: center;
+    
+
+}
+
+select:hover{
+    width: 6.4em;
+    background-color: rgb(2, 175, 175);
+    border: solid rgb(117, 58, 253);
+}
+select:active{
+    background-color: rgb(3, 124, 124);
+    border: solid rgb(139, 90, 255);
+}
+
+input{
+    width: 6em;
+    border-radius: .4em;
+    background-color: aqua;
+    border: solid rgb(76, 0, 255);
+}
+input:hover{
+    width: 6.4em;
+    background-color: rgb(2, 175, 175);
+    border: solid rgb(117, 58, 253);
+}
+input:active{
+    background-color: rgb(3, 124, 124);
+    border: solid rgb(139, 90, 255);
+}
+
+.eviar{
+    width: 6em;
+    border-radius: .4em;
+    background-color: aqua;
+    border: solid rgb(76, 0, 255);
+    
+}
+
+.eviar:hover{
+    width: 6.4em;
+    background-color: rgb(2, 175, 175);
+    border: solid rgb(117, 58, 253);
+}
+.eviar:active{
+    background-color: rgb(3, 124, 124);
+    border: solid rgb(139, 90, 255);
+}
+.div-eviar{
+    display: grid;
+}
+option{
+    font-size: 1.5em;
+}

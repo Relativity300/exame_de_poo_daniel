@@ -1,0 +1,104 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+label{
+    font-size: 2em;
+    position: relative;
+    left: 5.5em;
+    top: 2.2em;
+    margin: 0%;
+    padding: 0%;
+    color: beige;
+    
+}
+input{
+    width: 15em;
+    height: 1.5em;
+    position: relative;
+    left: 10em;
+    top: 5em;
+    background-color: aqua;
+    border-radius: 3em;
+    animation-name: b;
+    animation-duration: 3s;
+
+}
+.a{
+    display: block;
+    
+    
+}
+.email{
+    position: relative;
+    left: 6em;
+}
+.fecha{
+    position: relative;
+    left: 3.5em;
+}
+
+/* .quete{
+    position: relative;
+    left: 4em;
+    top: 2.5em;
+} */
+.e{
+    position: relative;
+    left: 1em;
+    width: 15em;
+    height: 3em;
+    background-color: aqua;
+    margin-top: 3em;
+    
+}
+
+.e:hover{
+    background-color: rgb(0, 221, 221);
+    
+}
+.e:active{
+    background-color: rgb(4, 176, 176);
+
+}
+input:hover{
+    background-color: rgb(0, 209, 209);
+    
+}
+input:active{
+    background-color: rgb(4, 155, 155);
+}
+video{
+    position: fixed;
+    z-index: -1;
+    bottom: -20em;
+    width: 100vw;
+    height: 100vw;
+    
+}
+form{
+    background-color: rgba(0, 0, 0, 0.235);
+    width: 30em;
+    position: relative;
+    left: 27em;
+    top: 3em;
+    height: 30em;
+    border-radius: 3em ;
+}
+form:hover{
+    background-color: rgba(0, 0, 0, 0.521);
+
+}
+h1{
+    color: blanchedalmond;
+    text-align: center;
+    position: relative;
+    top: 1em;
+    
+}
+
+
+@keyframes b {
+    0%{width: 1em;}
+    100%{width: 15em;}
+}

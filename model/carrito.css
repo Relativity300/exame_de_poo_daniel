@@ -1,0 +1,10 @@
+table{
+    position: relative;
+    top: 10em;
+    background-color: rgb(194, 223, 248);
+    width: 100vw;
+
+}
+.color{
+    background-color: aliceblue;
+}
